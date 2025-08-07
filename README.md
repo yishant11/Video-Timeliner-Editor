@@ -22,21 +22,6 @@ A responsive React application that provides an interactive video timeline inter
 
 ### Component Structure
 
-\`\`\`
-src/
-├── components/
-│   ├── VideoTimelineBrowser.tsx    # Main orchestrator component
-│   ├── VideoPlayer.tsx             # Video playback with custom controls
-│   ├── Timeline.tsx                # Interactive timeline with segments
-│   ├── KeyMomentsList.tsx          # Sidebar with clickable moments
-│   └── FileUpload.tsx              # Drag-and-drop file upload
-├── types/
-│   └── index.ts                    # TypeScript type definitions
-├── data/
-│   └── mockData.ts                 # Mock key moments and segments
-└── App.tsx                         # Root application component
-\`\`\`
-
 ### Key Design Decisions
 
 1. **State Management**: Used React's built-in state management with hooks for simplicity and performance
