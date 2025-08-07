@@ -1,4 +1,4 @@
-import React, { forwardRef } from 'react';
+import  { forwardRef } from 'react';
 import { Play, Pause } from 'lucide-react';
 
 interface VideoPlayerProps {

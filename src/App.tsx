@@ -1,4 +1,3 @@
-import React from 'react';
 import VideoTimelineBrowser from './components/VideoTimelineBrowser';
 import './App.css';
 
