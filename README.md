@@ -2,6 +2,11 @@
 
 A responsive React application that provides an interactive video timeline interface with key moments navigation and visual segment indicators.
 
+
+## Screenshots
+
+![Video Timeline Browser Interface](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-08-08%20010703-dddhYX48qzSA1G3dB5k2thjKxHnuvk.png)
+
 ## Features
 
 - **Video Upload & Playback**: Upload video files or use sample content
